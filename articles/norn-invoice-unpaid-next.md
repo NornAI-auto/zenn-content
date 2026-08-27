@@ -3,7 +3,7 @@ title: "請求書を送ったのに入金がない。次に何をするか"
 emoji: "📄"
 type: "idea"
 topics: ["フリーランス", "請求書", "未入金", "個人事業主"]
-published: true
+published: false
 ---
 
 ## 請求書を作るところまでは、無料でできる
